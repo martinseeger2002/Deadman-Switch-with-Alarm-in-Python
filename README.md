@@ -1,6 +1,6 @@
 Deadman Switch with Alarm in Python
 Overview
-This Python application serves as a Deadman Switch with an alarm feature. It is designed for situations where a user wants to stay awake or alert while lying in bed. 
+This Python application serves as a Deadman Switch with an alarm feature. It is designed for situations where a user wants to reach an alterd state of mind while lying in bed. 
 The user starts the application, holds the mouse button to keep it running, and if they fall asleep or release the mouse button, an alarm will be triggered.
 
 Features
